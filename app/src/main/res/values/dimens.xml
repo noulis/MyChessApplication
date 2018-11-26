@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="guideline_margin">20dp</dimen>
+    <item name="guideline_percentage_margin" format="float" type="dimen">0.7</item>
+</resources>
